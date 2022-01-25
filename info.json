@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 768.2115,
+    "videos": [
         "The Jesus And Mary Chain - Head On (Official Music Video)-eGp47YwDZ48.mp4",
         "Wind - 'Luxury' (1983)-e9zU8wX2aTY.mp4",
         "Once Awake - Shadows Ascend (Visualiser)-CFOQZbsB5sE.mp4",
@@ -41,7 +42,5 @@
         "Secret Service — Dancing In Madness (HD, TV, 1983)-g15GWKFNDaM.mp4",
         "Nina Hagen New York - New York 1983 HQ Sound-mB7oK8Os1ac.mp4",
         "OBUS-TE VISITARA LA MUERTE (CON LETRA)-QGvUfF4k0jw.mp4"
-    ],
-    "id": "z1",
-    "total_size": 732.6236630859377
+    ]
 }
